@@ -3,4 +3,4 @@
 A hash tree, also known as a Merkle tree, is a tree in which each leaf node is labeled with the **cryptographic** hash of a _data block_, and each non-leaf node is labeled with the cryptographic hash of its child nodes' labels. The majority of hash tree implementations are binary (each node has two child nodes), but they can also have many more child nodes.
 
 
-![image](https://user-images.githubusercontent.com/104163372/164989367-ca59afe9-0f35-4fc3-bcc9-237e7eff4d4f.png)
+![Merkle tree](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMerkle_tree&psig=AOvVaw3-tx8tIUym5k-LrIuiNh0i&ust=1650908605304000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiw3fmfrfcCFQAAAAAdAAAAABAI)
